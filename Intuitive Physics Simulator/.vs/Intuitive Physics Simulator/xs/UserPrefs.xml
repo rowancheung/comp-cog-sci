@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{DA27BB5F-5F09-4E3F-6BAC-E34359859CF9}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/StartButton.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlaySceneButton.cs">
     <Files>
-      <File FileName="Assets/StartButton.cs" Line="7" Column="78" />
+      <File FileName="Assets/StartButton.cs" Line="2" Column="1" />
+      <File FileName="Assets/PlaySceneButton.cs" Line="19" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
